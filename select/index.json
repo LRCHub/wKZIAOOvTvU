@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BULIMIC / REISAI feat. v4flower・宛然サカナ",
+  "base_artist": "REISAI",
+  "createdAt": "2026-03-03T15:49:12.888651Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bulimic Beats",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/01_Bulimic_Beats_Catatonia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bulimic",
+      "artist": "The Used",
+      "has_synced": false,
+      "path": "select/02_Bulimic_The_Used.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bulimic",
+      "artist": "The Used",
+      "has_synced": true,
+      "path": "select/03_Bulimic_The_Used.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bulimic",
+      "artist": "Used, The",
+      "has_synced": true,
+      "path": "select/04_Bulimic_Used,_The.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bulimic",
+      "artist": "The Used",
+      "has_synced": true,
+      "path": "select/05_Bulimic_The_Used.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bulimic",
+      "artist": "The Used",
+      "has_synced": false,
+      "path": "select/06_Bulimic_The_Used.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bulimic Beats",
+      "artist": "Catatonia",
+      "has_synced": false,
+      "path": "select/07_Bulimic_Beats_Catatonia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bulimic Beats",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/08_Bulimic_Beats_Catatonia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bulimic (Demo)",
+      "artist": "The Used",
+      "has_synced": false,
+      "path": "select/09_Bulimic_(Demo)_The_Used.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bulimic",
+      "artist": "The Used",
+      "has_synced": true,
+      "path": "select/10_Bulimic_The_Used.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bulimic - Home Demo",
+      "artist": "The Used",
+      "has_synced": true,
+      "path": "select/11_Bulimic_-_Home_Demo_The_Used.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bulimic (Home Demo)",
+      "artist": "Used, The",
+      "has_synced": true,
+      "path": "select/12_Bulimic_(Home_Demo)_Used,_The.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I´m Not Bulimic (I Just Wanted To See How Far I Could Stick My Fingers Down My Throat)",
+      "artist": "Lower Than Atlantis",
+      "has_synced": true,
+      "path": "select/13_I_́m_Not_Bulimic_(I_Just_Wanted_To_See_How_Far_I_Could_Stick_My_Fingers_Down_My__Lower_Than_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm Not Bulimic (I Just Wanted to See How Far I Could Stick My Fingers Down My Throat)",
+      "artist": "Lower Than Atlantis",
+      "has_synced": true,
+      "path": "select/14_I'm_Not_Bulimic_(I_Just_Wanted_to_See_How_Far_I_Could_Stick_My_Fingers_Down_My_T_Lower_Than_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I’m Not Bulimic (I Just Wanted to See How Far I Could Stick My Fingers Down My Throat)",
+      "artist": "Lower Than Atlantis",
+      "has_synced": true,
+      "path": "select/15_I’m_Not_Bulimic_(I_Just_Wanted_to_See_How_Far_I_Could_Stick_My_Fingers_Down_My_T_Lower_Than_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bulimic (Album Version)",
+      "artist": "The Used",
+      "has_synced": false,
+      "path": "select/16_Bulimic_(Album_Version)_The_Used.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BULIMIC",
+      "artist": "REISAI",
+      "has_synced": false,
+      "path": "select/pl_01_BULIMIC_REISAI.txt"
+    }
+  ]
+}
